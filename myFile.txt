@@ -1,1 +1,1 @@
-commit1 from branch2
+commit2 from branch2
